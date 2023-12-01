@@ -1,1 +1,1 @@
-# slime
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/martynoveduard/competition"> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/martynoveduard/dataset">  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/martynoveduard/notebook"> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/martynoveduard/discussion">
